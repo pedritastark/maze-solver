@@ -4,9 +4,29 @@ Python project developed using graph theory to address problems that can be form
 # Summary 
 The problem can be defined as an NxM labyrinth on which the graph associated with that labyrinth will be built and thus, through re-travel and search algorithms such as BFS, DFS, a solution will be found.
 
+
+<p align="center">
+  <img src="src/Figure 2023-12-04 111709.svg" alt="Texto alternativo" width="300">
+  <img src="src/Figure 2023-12-04 111928.svg" alt="Texto alternativo" width="300">
+</p>
+
+
 # Visualization 
 
+Figure 2023-12-04 111740.svg
+Update src
+2 minutes ago
+
+Figure 2023-12-04 111745.svg
+
 An important part of the project is the visualization. When we use any of the algorithms developed to solve it, you can see the step by step of the algorithm until we find a solution.
+
+<p align="center">
+  <img src="src/Figure 2023-12-04 111740.svg" alt="Texto alternativo" width="300">
+  <img src="src/Figure 2023-12-04 111745.svg" alt="Texto alternativo" width="300">
+</p>
+
+      -  visualization of greedy best first search Algorithm in certain algorithmic steps
 
 # Aprecciation
 
