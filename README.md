@@ -13,11 +13,7 @@ The problem can be defined as an NxM labyrinth on which the graph associated wit
 
 # Visualization 
 
-Figure 2023-12-04 111740.svg
-Update src
-2 minutes ago
 
-Figure 2023-12-04 111745.svg
 
 An important part of the project is the visualization. When we use any of the algorithms developed to solve it, you can see the step by step of the algorithm until we find a solution.
 
